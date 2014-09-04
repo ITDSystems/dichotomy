@@ -2,6 +2,12 @@
 
 We use ManageIQ now (CF upstream), since current CF has no REST API. Current ManageIQ should become supportable CF (and bring REST to CF) this September. APIs:
 
+### Main Info for Dihotomy
+1. [Docs on Apiary](http://docs.dihotomy.apiary.io/)
+2. [Mock Server](http://dihotomy.apiary-mock.com/)
+3. [Domain Specific Permissions](https://github.com/ITDSystems/dichotomy/wiki/List-of-Permissions)
+
+### Complete Official Docs
 1. [Design spec](http://manageiq.org/documentation/development/rest_api/design/)
 2. [Reference](http://manageiq.org/documentation/development/rest_api/reference/)
 
