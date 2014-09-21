@@ -47,6 +47,7 @@ Every machine is connected to two networks:
 * IP on internal network - 192.168.1.17
 * Admin URL: http://cloudforms:3000/
 * Admin login: admin / smartvm
+* Provides all APIs described at http://docs.dihotomy.apiary.io/
 
 ### KVM host
 * CentOS 6.4
@@ -60,6 +61,13 @@ Every machine is connected to two networks:
 * IP on internal network - 192.168.1.3
 * Admin login - root / password
 
+### JBoss Application Server
+* CentOS 6.4
+* IP on VPN network - 10.8.0.217
+* IP on internal network - 192.168.1.65
+* Admin login - root / password
+* JBoss EAP 6.3 - see root's home
+* Check CF access - wget http://admin:smartvm@cloudforms:3000/api/dihotomy/pools
 
 #Helpers
 
@@ -70,6 +78,8 @@ Every machine is connected to two networks:
 10.8.0.201	ad
 10.8.0.209	vcenter
 10.8.0.213	cloudforms
+10.8.0.213	cloudforms
+10.8.0.217	jbosseap
 ```
 
 ### Query AD for users from command line:
