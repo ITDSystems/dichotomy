@@ -69,6 +69,13 @@ Every machine is connected to two networks:
 * JBoss EAP 6.3 - see root's home
 * Check CF access - wget http://admin:smartvm@cloudforms:3000/api/dihotomy/pools
 
+### Redmine (Service Desk)
+* CentOS 6.4
+* IP on VPN network - 10.8.0.105
+* IP on internal network - 192.168.1.66
+* Admin login - root / password
+
+
 #Helpers
 
 ### Obvious candidates for /etc/hosts:
@@ -80,6 +87,7 @@ Every machine is connected to two networks:
 10.8.0.213	cloudforms
 10.8.0.213	cloudforms
 10.8.0.217	jbosseap
+10.8.0.105	redmine
 ```
 
 ### Query AD for users from command line:
