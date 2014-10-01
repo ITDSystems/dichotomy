@@ -37,8 +37,9 @@ Every machine is connected to two networks:
 * vCenter 5.5
 * IP on VPN network - 10.8.0.209
 * IP on internal network - 192.168.1.15
-* Admin URL: https://vcenter:9443/vsphere-client/
+* SSO Admin URL: https://vcenter:9443/vsphere-client/
 * Admin login: Administrator / Qwe123#
+* SSO Admin: Administrator@vsphere.local / qwe123#!
 
 ### CloudForms (ManageIQ actually)
 * CentOS 6.4
