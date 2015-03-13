@@ -58,8 +58,9 @@ Every machine is connected to two networks:
 
 ### OpenStack host
 * CentOS 7.0
+* Packstack latest
 * IP on VPN network - none
-* IP on internal network - none
+* IP on internal network - 192.168.1.105
 * Admin login - root / password
 
 ### VMware host
