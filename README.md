@@ -56,6 +56,12 @@ Every machine is connected to two networks:
 * IP on internal network - 192.168.1.104
 * Admin login - root / password
 
+### OpenStack host
+* CentOS 7.0
+* IP on VPN network - none
+* IP on internal network - none
+* Admin login - root / password
+
 ### VMware host
 * VMware 5.5 ESXi
 * IP on VPN network - none
