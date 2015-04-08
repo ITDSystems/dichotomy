@@ -60,8 +60,10 @@ Every machine is connected to two networks:
 * CentOS 7.0
 * Packstack latest
 * IP on VPN network - none
+* IP on VPN network - 10.8.0.221
 * IP on internal network - 192.168.1.105
 * Admin login - root / password
+* Horizon: admin / 10c624a7e0fa41c9
 
 ### VMware host
 * VMware 5.5 ESXi
