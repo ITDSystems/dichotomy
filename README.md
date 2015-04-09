@@ -41,12 +41,21 @@ Every machine is connected to two networks:
 * Admin login: Administrator / qwe123!@#
 * SSO Admin: Administrator@vsphere.local / qwe123#!
 
-### CloudForms (ManageIQ actually)
+### ManageIQ
 * CentOS 6.4
 * ManageIQ latest ([install from sources instruction](http://manageiq.org/community/install-from-source/))
 * IP on VPN network - 10.8.0.213
 * IP on internal network - 192.168.1.17
 * Admin URL: http://cloudforms:3000/
+* Admin login: admin / smartvm
+* Provides all APIs described at http://docs.dihotomy.apiary.io/
+
+### CloudForms
+* CentOS 6.4
+* CloudForms 3.1
+* IP on VPN network - 10.8.0.81
+* IP on internal network - 192.168.1.16
+* Admin URL: http://cloudforms/
 * Admin login: admin / smartvm
 * Provides all APIs described at http://docs.dihotomy.apiary.io/
 
