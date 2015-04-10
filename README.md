@@ -39,7 +39,7 @@ Every machine is connected to two networks:
 * IP on internal network - 192.168.1.15
 * SSO Admin URL: https://vcenter:9443/vsphere-client/
 * Admin login: Administrator / qwe123!@#
-* SSO Admin: Administrator@vsphere.local / qwe123#!
+* SSO Admin: Administrator@vsphere.local / qwe123!@#
 
 ### ManageIQ
 * CentOS 6.4
@@ -115,6 +115,6 @@ ldapsearch -x -h 10.8.0.201 -D "Administrator@example.loc" -W -b "cn=users,dc=ex
 ```
 
 ### Connect to AD with RDP:
-From VPN: ```xfreerdp /u:Administrator /d:example.loc /p:qwe123#! /v:10.8.0.201```
+From VPN: ```xfreerdp /u:Administrator /d:example.loc /p:qwe123\!\@\# /v:10.8.0.201```
 
-From LAN: ```xfreerdp /u:Administrator /d:example.loc /p:qwe123#! /v:192.168.1.150```
+From LAN: ```xfreerdp /u:Administrator /d:example.loc /p:qwe123\!\@\# /v:192.168.1.150```
