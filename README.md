@@ -30,7 +30,7 @@ Every machine is connected to two networks:
 * IP on VPN network - 10.8.0.201
 * IP on internal network - 192.168.1.150
 * Domain: example.loc
-* Admin login: Administrator / qwe123!@#
+* Admin login: Administrator / 123qweASD
 
 ### vCenter
 * Windows 2008 R2
@@ -38,8 +38,8 @@ Every machine is connected to two networks:
 * IP on VPN network - 10.8.0.209
 * IP on internal network - 192.168.1.15
 * SSO Admin URL: https://vcenter:9443/vsphere-client/
-* Admin login: Administrator / qwe123!@#
-* SSO Admin: Administrator@example.loc / qwe123!@#
+* Admin login: Administrator / 123qweASD
+* SSO Admin: Administrator@example.loc / 123qweASD
 
 ### ManageIQ
 * CentOS 6.4
