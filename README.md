@@ -77,7 +77,7 @@ Every machine is connected to two networks:
 ### VMware host
 * VMware 5.5 ESXi
 * IP on VPN network - none
-* IP on internal network - 192.168.1.3
+* IP on internal network - 192.168.1.103
 * Admin login - root / password
 
 ### JBoss Application Server
