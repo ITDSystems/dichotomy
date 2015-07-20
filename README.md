@@ -30,7 +30,7 @@ Every machine is connected to two networks:
 * IP on VPN network - 10.8.0.201
 * IP on internal network - 192.168.1.150
 * Domain: example.loc
-* Admin login: Administrator / 123qweASD
+* Admin login: Administrator / qwe1234#
 
 ### vCenter
 * Windows 2008 R2
