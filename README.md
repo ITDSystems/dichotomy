@@ -94,6 +94,11 @@ Every machine is connected to two networks:
 * IP on internal network - 192.168.1.66
 * Admin login - root / password
 
+### IPAM
+* Centos
+* IP on internal network - 192.168.1.68
+* Admin login - root / redhat
+* IPAM web - admin / 123qweASD
 
 #Helpers
 
