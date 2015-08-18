@@ -38,8 +38,7 @@ Every machine is connected to two networks:
 * IP on VPN network - 10.8.0.209
 * IP on internal network - 192.168.1.15
 * SSO Admin URL: https://vcenter:9443/vsphere-client/
-* Admin login: Administrator / 123qweASD
-* SSO Admin: Administrator@example.loc / 123qweASD
+* SSO Admin: Administrator@example.loc / qwe1234#
 
 ### ManageIQ
 * CentOS 6.4
