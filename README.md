@@ -73,11 +73,25 @@ Every machine is connected to two networks:
 * Admin login - root / password
 * Horizon: admin / 020103fae2c244eb
 
-### VMware host
+### VMware 5.5 host
 * VMware 5.5 ESXi
+* IP on VPN network - none
+* IP on internal network - 192.168.1.3
+* Admin login - root / password
+
+### VMware 6.0 host
+* VMware 6.0 ESXi
 * IP on VPN network - none
 * IP on internal network - 192.168.1.103
 * Admin login - root / password
+
+### VMware 6.0 vCenter
+* Deployed from appliance (no OS manual install procedure)
+* vCenter 6.0
+* IP on VPN network - not yet
+* IP on internal network - 192.168.1.110
+* SSO Admin URL: https://192.168.1.110
+* SSO Admin: Administrator@example.loc / 123qweASD!
 
 ### JBoss Application Server
 * CentOS 6.4
