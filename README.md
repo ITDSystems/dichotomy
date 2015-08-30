@@ -58,6 +58,12 @@ Every machine is connected to two networks:
 * Admin login: admin / smartvm
 * Provides all APIs described at http://docs.dihotomy.apiary.io/
 
+### CloudForms
+* CloudForms 3.2
+* IP on internal network - 192.168.1.111
+* Admin URL: http://192.168.1.111/
+* Admin login: admin / smartvm
+
 ### KVM host
 * CentOS 6.4
 * IP on VPN network - 10.8.0.197
