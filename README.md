@@ -72,7 +72,7 @@ Every machine is connected to two networks:
 
 ### Arch + Docker host
 * IP on VPN network - 10.8.0.221
- * IP on internal network - 192.168.1.105
+* IP on internal network - 192.168.1.105
 * Admin login - root / qwe123#
 
 ### VMware 5.5 host
