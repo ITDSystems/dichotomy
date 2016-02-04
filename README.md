@@ -70,14 +70,13 @@ Every machine is connected to two networks:
 * IP on internal network - 192.168.1.104
 * Admin login - root / password
 
-### OpenStack host
-* RHEL 7.1
-* Red Hat OpenStack Packstack latest
-* IP on VPN network - none
+### Arch + Docker host
+# * RHEL 7.1
+# * Red Hat OpenStack Packstack latest
 * IP on VPN network - 10.8.0.221
-* IP on internal network - 192.168.1.105
-* Admin login - root / password
-* Horizon: admin / 020103fae2c244eb
+ * IP on internal network - 192.168.1.105
+* Admin login - root / qwe123#
+#* Horizon: admin / 020103fae2c244eb
 
 ### VMware 5.5 host
 * VMware 5.5 ESXi
